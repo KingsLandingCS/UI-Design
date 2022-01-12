@@ -1,0 +1,79 @@
+/* navbar */
+nav {
+    background-color: white;
+    position: sticky;
+    top: 0;
+  }
+
+  
+  /* corn main container */
+  .cornsaladbgcolor{
+    background-color:#C4D39E;
+  }
+  
+  /* noodle main container */
+  .noodlebgcolor{
+    background-color:#D6D98C ;
+  }
+
+  /* bean main container */
+  .beanbgcolor{
+    background-color:#B8D8BE ;
+  }
+
+
+  /* Pasta main container */
+  .pastabgcolor{
+    background-color:#C4D39E ;
+  }
+
+
+  /* CUCUMBER main container */
+  .cucumberbgcolor{
+    background-color:#D6D98C;
+  }
+
+  /* Healthy main container */
+  .healthybgcolor{
+    background-color:#B8D8BE ;
+  }
+
+
+    /* footer */
+    .footersalad ul > li {
+      list-style-type: none;
+      font-size: small;
+    }
+    
+    .footersalad ul,
+    a {
+      text-decoration: none;
+      list-style-type: none;
+      color: black;
+    }
+    
+    .footerbg {
+      background-color: #f3f3f3;
+    }
+    
+    .footersalad {
+      word-spacing: normal;
+    }
+    
+    .categories1 {
+      word-spacing: 3px;
+    }
+    
+    .footersalad ul li:not(:last-child) {
+      margin-bottom: 12px;
+    }
+    
+    .sociallinks a {
+      padding: 0.3rem;
+    }
+    
+    .footersalad1 p{
+      color: black;
+      font-size: 15px;
+      font-weight: 500;
+    }

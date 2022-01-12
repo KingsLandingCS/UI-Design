@@ -1,0 +1,615 @@
+/*Primary navbar*/
+
+body {
+  margin: 0;
+}
+
+nav {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  text-align: center;
+  margin-top: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  font-size: 12px;
+  padding-left: 30px;
+}
+
+/* img {
+	
+    /* margin-left: 45px; 
+}*/
+
+a:hover {
+  color: #c03f38;
+}
+
+/*Secondary nav bar*/
+
+.c1 {
+  background-color: lightpink;
+}
+.c1 ul {
+  text-align: center;
+}
+
+.c1 ul li {
+  display: inline-block;
+  padding: 10px;
+  color: whitesmoke;
+  font-size: 20px;
+  padding-left: 40px;
+}
+
+.c1 ul li a {
+  text-decoration: none;
+}
+
+.c1 ul li a:visited {
+  color: white;
+}
+
+.fa-ice-cream {
+  margin-left: 5px;
+}
+
+.fa-birthday-cake {
+  margin-left: 7px;
+}
+
+.fa-apple-alt {
+  margin-left: 5px;
+}
+
+.fa-bread-slice {
+  margin-left: 5px;
+}
+
+.fa-pizza-slice {
+  margin-left: 10px;
+}
+
+.dc {
+  margin-top: -15px;
+  background-color: #cbdde1;
+  text-align: center;
+  background-image: url(dry_cake_bg_img-1.png);
+  background-repeat: no-repeat;
+}
+
+.dc img {
+  width: 50%;
+  padding-left: auto;
+  padding-right: auto;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.lb1 {
+  width: 20%;
+  color: whitesmoke;
+  border: solid 1px;
+  margin-bottom: 30px;
+}
+
+.c3 {
+  font-size: 40px;
+  color: #549cac;
+}
+
+.c4 {
+  font-size: 30px;
+}
+
+.c5 {
+  font-size: 25px;
+}
+.lb2 {
+  color: white;
+  border: solid 3px;
+}
+
+.c6 {
+  margin-top: 2px;
+  float: left;
+  background-color: #dec8db;
+  width: 100%;
+  position: relative;
+}
+
+.c7 {
+  float: left;
+  width: 40%;
+}
+
+/* .c7 img{
+	float: left;
+} */
+
+.c8 {
+  float: left;
+  width: 60%;
+}
+.c8 img {
+  float: left;
+}
+
+.freshcreamwords {
+  float: left;
+}
+
+.freshcream p {
+  width: 100%;
+  text-align: center;
+  font-size: 50px;
+  color: #af6aa6;
+  margin-left: 70px;
+}
+
+.mudcake p {
+  margin-top: -5px;
+  font-size: 20px;
+  margin-left: 220px;
+}
+
+.celebrate p {
+  margin-top: -15px;
+  font-size: 25px;
+  margin-left: 150px;
+}
+
+.lb3 hr {
+  margin-top: -45px;
+  border: 1px solid white;
+  width: 60%;
+  margin-left: 150px;
+}
+
+.buttercream {
+  display: flex;
+  margin-top: 2px;
+  background-color: #febfbf;
+  width: 100%;
+  position: relative;
+}
+
+.butterbackgrouund img {
+  margin-left: 0px;
+}
+
+.chococake img {
+  position: absolute;
+  top: 40px;
+  left: 150px;
+}
+
+.butterp {
+  margin-left: 600px;
+  margin-bottom: 50px;
+  padding-bottom: 100px;
+}
+
+.buttercreampara p {
+  font-size: 50px;
+  color: #d16a6a;
+}
+
+.flower2 img {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.lb4 hr {
+  margin-top: -45px;
+  border: 1px solid white;
+  width: 80%;
+  margin-right: 45px;
+}
+
+.specialchocolate p {
+  margin-top: 20px;
+  font-size: 20px;
+  margin-left: 60px;
+}
+
+.everycakestory p {
+  margin-top: 20px;
+  font-size: 25px;
+  margin-left: 20px;
+}
+
+.moussecake {
+  display: flex;
+  margin-top: 2px;
+  background-color: #dec8db;
+  width: 100%;
+  position: relative;
+}
+
+.moussecakeg img {
+  position: absolute;
+  top: 30px;
+  right: 40px;
+}
+
+.moussep {
+  padding-top: 60px;
+  margin-left: 200px;
+  margin-bottom: 200px;
+}
+
+.moussepara p {
+  font-size: 50px;
+  color: #af6aa6;
+}
+
+.lb5 hr {
+  margin-top: -45px;
+  border: 1px solid white;
+  margin-left: 30px;
+  width: 80%;
+}
+
+.chocolatedreamcake p {
+  margin-left: 12px;
+  font-size: 26px;
+  margin-top: 2px;
+}
+
+.smooth p {
+  margin-top: -20px;
+  margin-left: 25px;
+  font-size: 25px;
+}
+
+.moussebackgrouund img {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+/* Ice cake main div starts */
+.icecake {
+  margin-top: 2px;
+  position: relative;
+}
+
+.icep {
+  position: absolute;
+  top: 0;
+  margin-left: 200px;
+}
+
+.icecakeheader p {
+  margin-top: 80px;
+  margin-left: 130px;
+  font-size: 50px;
+  color: #d16a6a;
+}
+
+.chocolatecakeheader p {
+  margin-top: 10px;
+  margin-left: 200px;
+  font-size: 35px;
+}
+
+.lb6 hr {
+  margin-top: -41px;
+  border: 1px solid white;
+  margin-left: 150px;
+  width: 70%;
+}
+
+.coldheader p {
+  margin-left: 250px;
+  margin-top: -20px;
+  font-size: 25px;
+}
+
+.icecakebackground img {
+  width: 100%;
+}
+
+.icecakeg {
+  position: absolute;
+  top: 260px;
+  left: 330px;
+}
+
+/* tea time css div ends */
+.teatime {
+  margin-top: 2px;
+  width: 100%;
+  position: relative;
+  background-color: #cedfe3;
+}
+
+/* headers main css div ends */
+.teatimeheaders {
+  position: absolute;
+  top: 260px;
+  left: 150px;
+}
+
+.itsteatimeheader1 p {
+  margin-top: 80px;
+  margin-left: 130px;
+  font-size: 50px;
+  color: white;
+  word-spacing:10px;
+}
+
+.richplumcakeheader2 p {
+  font-family: 'Brush Script MT', cursive;
+  margin-top: -50px;
+  margin-left: 200px;
+  font-size: 35px;
+  word-spacing: 5px;
+  color: #B9973E;
+  
+}
+
+/* images main css ends */
+
+.richplumcake img{
+  margin:0;
+}
+
+.yellowtulip img{
+  margin-top:-110px;
+  margin-left:530px;
+  padding-bottom: 100px;
+}
+
+.teacup img{
+  position: absolute;
+  bottom:30px;
+  right:0px;
+  
+}
+/* signature css div ends */
+.signature {
+  margin-top: 2px;
+  width: 100%;
+  position: relative;
+  background-color: #cedfe3;
+  padding-top: 1850px;
+}
+
+/* headers main css div ends */
+.signatureheader1 p{
+  font-family: 'Brush Script MT', cursive;
+  position:absolute;
+  top:-50px;
+  left:160px;
+  font-size: 70px;
+  word-spacing:15px;
+  letter-spacing: 15px;
+  color: #B9973E;
+}
+
+.teacakefamilyheader2 p{
+  font-family: Arial, Helvetica, sans-serif;
+  position:absolute;
+  top:80px;
+  left:260px;
+  font-size:26px;
+  color: white;
+}
+
+.gingerteacakeheader3 p{
+  font-family: Arial, Helvetica, sans-serif;
+  position:absolute;
+  top:530px;
+  left:650px;
+  font-size:26px;
+  color: white;
+}
+
+.lb7 hr{
+  position:absolute;
+  top:610px;
+  left:650px;
+  color:white;
+  border:1px solid white;
+  width:120px;
+}
+
+.plainteacakecakeheader4 p{
+  font-family: Arial, Helvetica, sans-serif;
+  position:absolute;
+  top:950px;
+  left:300px;
+  font-size:26px;
+  color: white;
+}
+
+.lb8 hr{
+  position:absolute;
+  top:1030px;
+  left:300px;
+  color:white;
+  border:1px solid white;
+  width:120px;
+}
+
+.fruitteacakeheader5 p {
+  font-family: Arial, Helvetica, sans-serif;
+  position:absolute;
+  top:1580px;
+  left:650px;
+  font-size:26px;
+  color: white;
+}
+
+.lb9 hr{
+  position:absolute;
+  top:1680px;
+  left:650px;
+  color:white;
+  border:1px solid white;
+  width:120px;
+}
+/* images main css ends */
+
+.yellowtulip2 img{
+  position: absolute;
+  top:0;
+  right:0;
+  
+}
+
+.gingerteacake img{
+  position: absolute;
+  top:200px;
+  right:100px;
+  
+}
+
+.plainteacake img{
+  position: absolute;
+  top:650px;
+  left:150px;
+  
+}
+
+.fruitcake img{
+  position: absolute;
+  top:1050px;
+  right:100px;
+  
+}
+
+.yellowtulip3 img{
+  position: absolute;
+  top: 1650px;
+  left:0px;
+}
+
+/* Customized Cake main css div ends */
+.customizedcake {
+  margin-top: 2px;
+  width: 100%;
+  position: relative;
+  background-color: #ECD4D6;
+  padding-top:900px;
+
+}
+/* ribbon image div ends */
+.ribbon img{
+  position: absolute;
+  top:310px;
+  left:100px;
+}
+
+/* customized cake image div ends */
+.customizedcakeimage img{
+  position: absolute;
+  top:200px;
+  left:400px;
+}
+/* customized cake header div ends */
+.customizedcakeheader{
+  font-family: 'Brush Script MT', cursive;
+  position:absolute;
+  top:-20px;
+  left:250px;
+  font-size: 70px;
+  word-spacing:15px;
+  letter-spacing: 15px;
+  color: #A75D63;
+}
+/* lovelies header header div ends */
+.loveliesheader{
+  font-family: Arial, Helvetica, sans-serif;
+  position:absolute;
+  top:120px;
+  left:320px;
+  font-size:26px;
+  color: white;
+}
+
+/* footer main css div ends */
+.footer{
+  background-color:#F3F3F3;
+  margin-top:15px;
+  position:relative;
+  width:100%;
+  display:flex;
+  justify-content: center;
+  flex-wrap:wrap;
+}
+
+.footer li{
+  margin-bottom:.5rem;
+}
+.footer h2{
+  margin-top:2rem;
+  margin-bottom:2rem;
+  margin-right:6rem;
+  flex-direction: column;
+}
+
+/* categories1 styling ends */
+.categories1 ul > li{
+  list-style-type: none;
+  font-size:13px;
+}
+
+.categories1 h2{
+  font-size:13px;
+  padding-left:8px;
+}
+
+/* categories2 styling ends */
+.categories2 ul > li{
+  list-style-type: none;
+  font-size:13px;
+}
+
+.categories2 h2{
+  font-size:13px;
+  padding-left:6px;
+}
+/* company styling ends */
+.company ul > li{
+  list-style-type: none;
+  font-size:13px;
+}
+
+.company h2{
+  font-size:13px;
+  padding-left: 28px;
+}
+/* services styling ends */
+.services ul > li{
+  list-style-type: none;
+  font-size:13px;
+}
+
+.services h2{
+  font-size:13px;
+  padding-left: 34px;
+}
+
+.footer2{
+  position:absolute;
+  left:40px;
+  bottom:-60px;
+}
+
+.footer3{
+  position:absolute;
+  right:40px;
+  bottom:-50px;
+}
+
+    

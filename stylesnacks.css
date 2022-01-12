@@ -1,0 +1,70 @@
+/* navbar */
+nav {
+  background-color: white;
+  position: sticky;
+  top: 0;
+}
+
+/* PANINI main container */
+.paninibgcolor {
+  background-color: #daaa48;
+}
+
+/* SAMOSAS main container */
+.samosasbgcolor {
+  background-color: #f6edcc;
+}
+
+/* CAPSICUM main container */
+.capsicumbgcolor {
+  background-color: #c1c684;
+}
+
+/* BROWN main container */
+.brownbgcolor {
+  background-color: #daaa48;
+}
+
+/* snack main container */
+.snackbgcolor {
+  background-color: #f6edcc;
+}
+
+  /* footer */
+  .footersnack ul > li {
+    list-style-type: none;
+    font-size: small;
+  }
+  
+  .footersnack ul,
+  a {
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+  }
+  
+  .footerbg {
+    background-color: #f3f3f3;
+  }
+  
+  .footersnack {
+    word-spacing: normal;
+  }
+  
+  .categories1 {
+    word-spacing: 3px;
+  }
+  
+  .footersnack ul li:not(:last-child) {
+    margin-bottom: 12px;
+  }
+  
+  .sociallinks a {
+    padding: 0.3rem;
+  }
+  
+  .footersnack1 p{
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+  }

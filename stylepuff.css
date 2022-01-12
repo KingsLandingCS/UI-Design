@@ -1,0 +1,73 @@
+/* navbar */
+nav {
+    background-color: white;
+    position: sticky;
+    top: 0;
+  }
+
+
+  /* Puff main container */
+  .puffbgcolor{
+    background-color:#DAB3A7;
+  }
+
+
+  /* spicy main container */
+  .spicybgcolor{
+      background-color:#F6D1B4 ;
+  }
+
+  /* CHEESE main container */
+  .lemonbgcolor{
+      background-color:#F6EBD8;
+  }
+
+
+  /* VEGETABLE main container */
+ .vegetablebgcolor{
+ background-color:#DAB3A7 ;
+}
+
+/* CHICKEN main container */
+.chickenbgcolor{
+    background-color:#F6D1B4;
+}
+
+/* footer */
+.footerpuff ul > li {
+    list-style-type: none;
+    font-size: small;
+  }
+  
+  .footerpuff ul,
+  a {
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+  }
+  
+  .footerbg {
+    background-color: #f3f3f3;
+  }
+  
+  .footerpuff {
+    word-spacing: normal;
+  }
+  
+  .categories1 {
+    word-spacing: 3px;
+  }
+  
+  .footerpuff ul li:not(:last-child) {
+    margin-bottom: 12px;
+  }
+  
+  .sociallinks a {
+    padding: 0.3rem;
+  }
+  
+  .footerpuff1 p{
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+  }

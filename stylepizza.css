@@ -1,0 +1,95 @@
+ /* navbar */
+ nav{
+    background-color: white;
+    position: sticky;
+    top:0;
+  }
+
+
+/* Beef main container */
+.beefbgcolor{
+    background-color: #FFC857;
+}
+
+.beef h2{
+    padding-bottom: 15rem;
+}
+
+
+/* MORTADELLA main container */
+.mortadellabgcolor{
+    background-color:#FD9C81;
+}
+
+
+/* GRILLED main container */
+.grilledbgcolor{
+background-color: #FFC857;
+}
+
+
+/* BBQ main container */
+.bbqbgcolor{
+background-color:#FEEFD9 ;
+}
+
+
+/* SRIRACHA main container */
+.srirachabgcolor{
+    background-color:#FFC857;
+}
+
+/* SMOKED main container */
+.smokedbgcolor{
+    background-color:#FEEFD9 ;
+}
+
+/* SPICE main container */
+.spicebgcolor{
+    background-color:#FD9C81 ;
+}
+
+/* CHICKEN CHAPLI main container */
+.chaplibgcolor{
+    background-color:#FFC857;
+}
+
+
+/* footer */
+.footerpizza ul > li {
+    list-style-type: none;
+    font-size: small;
+  }
+  
+  .footerpizza ul,
+  a {
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+  }
+  
+  .footerbg {
+    background-color: #f3f3f3;
+  }
+  
+  .footerpizza {
+    word-spacing: normal;
+  }
+  
+  .categories1 {
+    word-spacing: 3px;
+  }
+  
+  .footerpizza ul li:not(:last-child) {
+    margin-bottom: 12px;
+  }
+  
+  .sociallinks a {
+    padding: 0.3rem;
+  }
+  
+  .footerpizza1 p{
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+  }

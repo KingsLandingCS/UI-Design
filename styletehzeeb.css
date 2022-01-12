@@ -1,0 +1,70 @@
+/* navbar */
+nav {
+    background-color: white;
+    position: sticky;
+    top: 0;
+  }
+
+  /* Tehzeeb main container */
+  .tehzeebbgcolor{
+      background-color:#D4C5B2 ;
+  }
+
+  /* HONEY main container */
+  .honeybgcolor{
+      background-color:#E8CBA9 ;
+  }
+
+  /* chocolate main container */
+  .chochobgcolor{
+      background-color:#EABBB4 ;
+  }
+
+  /* BREADS main container */
+  .breadbgcolor{
+      background-color:#EABBB4;
+  }
+
+  /* SNACKS main container */
+  .snacksbgcolor{
+      background-color:#E8CBA9 ;
+  }
+
+  /* footer */
+.footertehzeeb ul > li {
+    list-style-type: none;
+    font-size: small;
+  }
+  
+  .footertehzeeb ul,
+  a {
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+  }
+  
+  .footerbg {
+    background-color: #f3f3f3;
+  }
+  
+  .footertehzeeb {
+    word-spacing: normal;
+  }
+  
+  .categories1 {
+    word-spacing: 3px;
+  }
+  
+  .footertehzeeb ul li:not(:last-child) {
+    margin-bottom: 12px;
+  }
+  
+  .sociallinks a {
+    padding: 0.3rem;
+  }
+  
+  .footertehzeeb1 p{
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+  }

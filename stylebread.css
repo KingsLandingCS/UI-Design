@@ -1,0 +1,150 @@
+ /* navbar */
+  nav{
+      background-color: white;
+      position: sticky;
+      top:0;
+    }
+
+
+    /* DELICACY main container */
+    .delicacybgcolor{
+      background-color: #EAC9A4;
+    }
+
+    .delicacytx hr{
+    color: whitesmoke;
+    }
+    .delicacytx p{
+    color: whitesmoke;
+    font-weight: 500;
+    font-size:20px;
+     }
+
+    .delicacytx hr{
+      border: solid 1px;
+    }
+
+    .delicacytx h1{
+    color: #A75563;
+    font-size: 40px;
+    }
+
+
+    /* TOAST main container */
+     .toastbgcolor {
+      background-color:#C07D4D 
+    } 
+
+    .toastbgcolor img{
+      padding-top: 4rem;
+    }
+
+    .toast2 {
+      padding-bottom: 8rem;
+    }
+
+    .toastbgcolor h1, hr, p{
+      color: white;
+    }
+
+    .toastbgcolor hr {
+      border: 1px solid white;
+    }
+
+    .toastbgcolor p {
+    font-size: 25px;
+    }
+
+
+    /* Breakfast main container */
+    .breadbgcolor{
+      background-color: #FCCAB1;
+    }
+
+    .breadbgcolor h1{
+     color:#A7552D;
+    }
+
+    .breadbgcolor p{
+      color:#A7552D;
+      font-weight: bold;
+    }
+    
+    .breadbgcolor hr{
+      border: 1px solid white;
+    }
+
+
+
+    /* Croissant main container */
+    .croissantbgcolor{
+      background-color:#F9DDC1 ;
+    }
+
+    .croissantbgcolor h1{
+      color: white;
+      font-size: 50px;
+    }
+
+    /* FILL, STACK & EAT main container */
+
+    .stackbgcolor{
+      background-color:#EAC9A4;
+    }
+
+
+    /* CAKE RUSK main container */
+    .cakeruskbgcolor{
+     background-color:#C07D4D ;
+    }
+
+
+    /* SHEERMAL main container */
+    .sheermalbgcolor{
+      background-color:#FFDBAC ;
+    }
+
+    /* .CRISPY main container */
+    .crispybgcolor{
+      background-color:#C07D4D ;
+    }
+
+
+ /* Footer */
+ .footerbread ul > li {
+  list-style-type: none;
+  font-size: small;
+}
+
+.footerbread ul,
+a {
+  text-decoration: none;
+  list-style-type: none;
+  color: black;
+}
+
+.footerbg {
+  background-color: #f3f3f3;
+}
+
+.footerbread {
+  word-spacing: normal;
+}
+
+.categories1 {
+  word-spacing: 3px;
+}
+
+.footerbread ul li:not(:last-child) {
+  margin-bottom: 12px;
+}
+
+.sociallinks a {
+  padding: 0.3rem;
+}
+
+.footerbread1 p{
+  color: black;
+  font-size: 15px;
+  font-weight: 500;
+}

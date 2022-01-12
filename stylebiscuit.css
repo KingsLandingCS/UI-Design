@@ -1,0 +1,368 @@
+/* navbar */
+.navbar {
+  background-color: white;
+  position: sticky;
+}
+
+@media only screen and (max-width: 991px) {
+  .tehzeeblogo {
+    display: none;
+  }
+}
+
+/* Royal Biscuit */
+.royalbgcolor {
+  background-color: #79989e;
+}
+.royalh1 {
+  color: #cca750 !important;
+}
+
+.royalh1,
+hr {
+  color: white;
+}
+
+.royalh3 {
+  color: white;
+}
+
+/* The Original */
+
+.originalbgcolor {
+  background-color: #ceafb4;
+}
+
+.originalh1 {
+  color: #a75d63;
+  padding-left: 3rem;
+}
+
+.originalh3 {
+  color: white;
+  padding-left: 3rem;
+}
+
+.biscuitbox {
+  padding-right: 3rem;
+}
+
+/* LITTLE THINGS */
+
+.littlethingbgcolor {
+  background-color: #c8bcc8;
+}
+
+.littleh1 {
+  color: #825d82;
+}
+
+.teaport {
+  margin-right: -10px;
+}
+
+.biscuit1 {
+  padding-top: 10rem;
+  padding-left: 4rem;
+}
+
+/* SHARE THEM  */
+.sharethembgcolor {
+  background-color: #79989e;
+}
+
+.shareh1 {
+  color: #d8b75e;
+}
+
+.fourbis {
+  align-items: flex-start;
+}
+
+/* A PIECE OF */
+.apiecebgcolor {
+  background-color: #e9c7cd;
+}
+
+.pieceh1 {
+  color: #a75d63;
+  align-items: center;
+}
+
+.checkbiscuit {
+  padding-right: 5px;
+}
+
+/* collection */
+.collectionbgcolor {
+  background-color: #c8bcc8;
+}
+
+.collectionh1 {
+  color: #825d82;
+}
+
+.collectionh1 hr {
+  color: white;
+}
+
+.collectionh3 {
+  color: white;
+}
+
+/* collection second container row */
+.collectionrow2 p {
+  color: white;
+}
+
+/* collection third container row */
+.collectionrow3 p {
+  color: white;
+}
+
+/* Biscotti */
+.biscottibgcolor {
+  background-color: #79989e;
+}
+
+.biscottih3 h3 {
+  color: white;
+}
+
+.biscottih1 h1 {
+  color: #cda952;
+}
+
+.biscottih1 hr {
+  color: white;
+}
+
+/* Biscoti second container */
+.almondbiscoti {
+  align-items: flex-end;
+}
+
+.almondbiscoti p {
+  padding-left: 11rem;
+  padding-bottom: 3rem;
+}
+
+.almondbiscoti h3 {
+  color: white;
+  font-size: large;
+}
+
+/* Biscoti third container */
+.walnutbiscoti {
+  align-items: flex-start;
+}
+
+.walnutbiscoti h3 {
+  color: white;
+  font-size: large;
+}
+
+/* Biscoti fourth container */
+.pistachiobiscoti {
+  align-items: flex-end;
+}
+
+.pistachiobiscoti h3 {
+  color: white;
+  font-size: large;
+}
+
+/* OATLAY main container */
+
+.oatlaybgcolor {
+  background-color: #ceafb4;
+}
+
+.oatlay h1 {
+  color: #a75d63;
+}
+
+.oatlay hr {
+  color: white;
+  width: 250px;
+  align-self: center;
+}
+
+.oatlay3 h3 {
+  color: white;
+}
+
+/* CRANBERRY Main Container */
+.cranberrybgcolor {
+  background-color: #c8bcc8;
+}
+
+.cranberry {
+  color: #825d82;
+}
+
+.cranberry hr {
+  width: 250px;
+  align-self: center;
+}
+
+.cranberryi {
+  margin-left: -0.25rem;
+  z-index: 1;
+}
+
+.cranberryif {
+  margin-left: 1rem;
+  padding-bottom: 3rem;
+  z-index: 0;
+}
+
+.cranberryh {
+  margin-right: -0.75rem;
+}
+
+.cranberryi2 {
+  margin-right: -rem;
+  margin-top: 4rem;
+}
+
+/* Snaps Main Container */
+.snapbgcolor {
+  background-color: #79989e;
+}
+
+.flaxbis {
+  object-fit: contain;
+  width: 8rem;
+}
+
+.snappara h1 {
+  color: #cca750;
+}
+
+.snappara h3 {
+  color: white;
+}
+
+.seasamebis {
+  object-fit: contain;
+  width: 8rem;
+  padding-top: 22px;
+}
+
+/* Footer */
+.footerbiscuit ul > li {
+  list-style-type: none;
+  font-size: small;
+}
+
+.footerbiscuit ul,
+a {
+  text-decoration: none;
+  list-style-type: none;
+  color: black;
+}
+
+.footerbg {
+  background-color: #f3f3f3;
+}
+
+.footerbiscuit {
+  word-spacing: normal;
+}
+
+.categories1 {
+  word-spacing: 3px;
+}
+
+.footerbiscuit ul li:not(:last-child) {
+  margin-bottom: 12px;
+}
+
+.sociallinks a {
+  padding: 0.3rem;
+}
+
+/* @media only screen and (min-width: 500px) {
+  .cranberryif{
+
+   margin-bottom: 2rem;
+   margin-left: -5rem;
+  }
+  
+}
+
+@media only screen and (min-width: 500px) {
+  .cranberryi{
+   padding-left: 1px;
+   width: 10px;
+   height: 10vh;
+  }
+  
+  
+} */
+
+/* 
+@media only screen and (min-width: 640px) {
+  .cranberryif{
+    padding-bottom: 15rem;
+    padding-left: 4rem;
+  }
+  
+}
+
+
+@media only screen and (min-width: 768px) {
+  .cranberryif{
+    padding-bottom: 15rem;
+    padding-left: 8rem;
+  }
+  
+}
+
+
+@media only screen and (min-width: 830px) {
+  .cranberryif{
+    padding-bottom: 15rem;
+    padding-left: 6rem;
+  }
+  
+}
+
+
+@media only screen and (min-width: 960px) {
+  .cranberryif{
+    padding-bottom: 15rem;
+    padding-left: 5rem;
+  }
+  
+}
+
+
+@media only screen and (min-width: 1166px) {
+  .cranberryif{
+    position: absolute;
+    bottom: 20rem;
+   left: 8rem;
+  }
+  
+}
+
+
+@media only screen and (min-width: 1200px) {
+  .cranberryif{
+    position: absolute;
+    bottom: 22rem;
+   left: 10rem;
+  }
+  
+}
+
+@media only screen and (min-width: 1400px) {
+  .cranberryif{
+    position: absolute;
+    bottom: 24rem;
+   left: 12rem;
+  }
+  
+}  */

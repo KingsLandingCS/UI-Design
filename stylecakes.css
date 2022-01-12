@@ -1,0 +1,56 @@
+/* navbar */
+nav {
+    background-color: white;
+    position: sticky;
+    top: 0;
+  }
+
+  /* Dry cake main container */
+  .drycakebgcolor{
+    background-color:#CBDDE1 ;
+  }
+
+  /* FRESH CREAM main container */
+  .freshbgcolor{
+    background-color:#DEC8DB ;
+  }
+
+
+   /* Footer */
+ .footerdrycake ul > li {
+  list-style-type: none;
+  font-size: small;
+}
+
+.footerdrycake ul,
+a {
+  text-decoration: none;
+  list-style-type: none;
+  color: black;
+}
+
+.footerbg {
+  background-color: #f3f3f3;
+}
+
+.footerdrycake {
+  word-spacing: normal;
+}
+
+.categories1 {
+  word-spacing: 3px;
+}
+
+.footerdrycake ul li:not(:last-child) {
+  margin-bottom: 12px;
+}
+
+.sociallinks a {
+  padding: 0.3rem;
+}
+
+.footerdrycake1 p{
+  color: black;
+  font-size: 15px;
+  font-weight: 500;
+}

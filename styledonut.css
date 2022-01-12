@@ -1,0 +1,91 @@
+/* navbar */
+nav{
+    background-color: white;
+    position: sticky;
+    top:0;
+  }
+
+  /* goodlook main container */
+  .goodlookbgcolor{
+      background-color:#BFEDFF ;
+  }
+
+  /* SMILE main container */
+  .smilebgcolor{
+      background-color:#E3FDBC ;
+  }
+
+
+  /* SWEET main container */
+  .sweetbgcolor{
+      background-color:#FF9190 ;
+  }
+
+  /* LIKE REST main container */
+  .likerestbgcolor{
+      background-color:#CDC9F6 ;
+  }
+
+  /* Chocolate main container */
+  .chocobgcolor{
+      background-color:#FFDCE7 ;
+  }
+
+  /* SPRINKLING main container */
+  .sprinklebgcolor{
+      background-color:#FFF9AF;
+  }
+
+  /* Times main container */
+  .timesbgcolor{
+      background-color:pink ;
+  }
+
+  /* Chocolate main container */
+  .chocolatebgcolor{
+      background-color:#FBAB9D;
+  }
+
+  /* SMILEY main container */
+  .smileybgcolor{
+      background-color: #EDFFD3;
+  }
+
+  /* footer */
+.footerdonut ul > li {
+    list-style-type: none;
+    font-size: small;
+  }
+  
+  .footerdonut ul,
+  a {
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+  }
+  
+  .footerbg {
+    background-color: #f3f3f3;
+  }
+  
+  .footerpizza {
+    word-spacing: normal;
+  }
+  
+  .categories1 {
+    word-spacing: 3px;
+  }
+  
+  .footerdonut ul li:not(:last-child) {
+    margin-bottom: 12px;
+  }
+  
+  .sociallinks a {
+    padding: 0.3rem;
+  }
+  
+  .footerdonut1 p{
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+  }
